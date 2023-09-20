@@ -1,6 +1,7 @@
 import React from 'react'
 import {Footer,Schedule, Gallery, Form, About, Events, Weather} from './containers';
 import {Navbar,BasicSlider} from './components';
+import { Link } from "react-router-dom";
 import './App.css';
 
 
