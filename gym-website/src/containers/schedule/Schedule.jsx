@@ -38,7 +38,7 @@ const Schedule = () => {
               <tr>
                 <td>12:00</td>
                 <td>Lunch Break</td>
-                <td>Lunch Break</td>
+                <td>Lunch Break (vegan)</td>
                 <td>Lunch Break</td>
                 <td>Lunch Break</td>
                 <td>Lunch Break</td>
