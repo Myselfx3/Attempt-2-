@@ -1,5 +1,4 @@
 import React from 'react';
-import {RiMenu3line, RiCloseLin} from 'react-icons/ri';
 import './navbar.css';
 import logo from '../../assets/Gymlogo.png'
 
