@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/github-pages-app/static/css/main.2684e770.css",
+    "main.js": "/github-pages-app/static/js/main.845da00a.js",
+    "static/media/Gymhero1.png": "/github-pages-app/static/media/Gymhero1.d96887399ee4c8c5ff59.png",
+    "static/media/gymhero2.jpg": "/github-pages-app/static/media/gymhero2.8ae340853074a17a108c.jpg",
+    "static/media/gymhero3.jpg": "/github-pages-app/static/media/gymhero3.051ffaca16c2530b7e17.jpg",
+    "static/media/photo-1534438327276-14e5300c3a48.jpg": "/github-pages-app/static/media/photo-1534438327276-14e5300c3a48.d89d9d655d90ee652692.jpg",
+    "static/media/gettyimages-1183038884-612x612.jpg": "/github-pages-app/static/media/gettyimages-1183038884-612x612.8311691a8a9b95ac9398.jpg",
+    "static/media/istockphoto-1322158059-612x612.jpg": "/github-pages-app/static/media/istockphoto-1322158059-612x612.9bdbf50a2ac66f2d65a6.jpg",
+    "index.html": "/github-pages-app/index.html",
+    "main.2684e770.css.map": "/github-pages-app/static/css/main.2684e770.css.map",
+    "main.845da00a.js.map": "/github-pages-app/static/js/main.845da00a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2684e770.css",
+    "static/js/main.845da00a.js"
+  ]
+}
