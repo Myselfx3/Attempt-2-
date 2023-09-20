@@ -1,5 +1,5 @@
 import React from 'react'
-import {Footer,Schedule, Gallery, Form, About, Events, Team, Weather} from './containers';
+import {Footer,Schedule, Gallery, Form, About, Events, Weather} from './containers';
 import {Navbar,BasicSlider} from './components';
 import './App.css';
 

@@ -25,9 +25,7 @@ const Form = () => {
     }
   };
 
-  const handleAddTelephone = () => {
-    setFormData({ ...formData, telephones: [...formData.telephones, ''] });
-  };
+
 
   const validateForm = () => {
     const newErrors = {};
@@ -77,7 +75,6 @@ const Form = () => {
     e.preventDefault();
 
     if (validateForm()) {
-      // Submit the form data or perform other actions here
       console.log('Form data:', formData);
     } else {
       console.log('Form has validation errors.');
